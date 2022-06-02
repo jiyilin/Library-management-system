@@ -1,0 +1,2 @@
+E:\text\VisualStudio\Book Management System  plus\x64\Debug\Book Management System  plus.exe
+G:\Book Management System  plus\x64\Debug\Book Management System  plus.exe
